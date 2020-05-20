@@ -18,8 +18,8 @@ export default {
 
         emailService.sendMail({ //OBJETO PARA ENVIAR PRO EMAIL SERVICES OS CONTEUDOS DA MENSAGEM 
             to: {
-                name: 'Elzo',
-                email: 'elzo@hotmail.com'
+                name: 'Vitor',
+                email: 'Vitorrubim@hotmail.com'
             },
             message: {
                 subject: 'Bem vindo ao sistema',
